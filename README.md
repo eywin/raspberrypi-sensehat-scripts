@@ -26,7 +26,7 @@ Handy script for displaying two digits at the same time on the SenseHat.
 ## How to run the scripts
 These scripts are made for and tested with Python 3.7 You might have issues with older versions.
 
-You can runn all the scripts for them selves, but ´display_next_departure.py´ is the oly script with a practical application
+You can run all the scripts for themselves, but ´display_next_departure.py´ is the oly script with a practical application
 
 Running
 ```bash
