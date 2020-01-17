@@ -3,6 +3,9 @@ Some scripts for the astro-pi sense hat.
 
 ## What does these scripts do??
 
+### random_led.py
+This script draws a "snake" on the led screen and makes it snake around in random colors :)
+
 ### accelerometer.py
 This script reads the orientation of the Pi and orients the output on the led-array accordingly. You can run it independently, but it makes more sense to import the auto-orient-function in other scripts that use the screen.
 
@@ -26,7 +29,7 @@ Handy script for displaying two digits at the same time on the SenseHat.
 ## How to run the scripts
 These scripts are made for and tested with Python 3.7 You might have issues with older versions.
 
-You can run all the scripts for themselves, but ´display_next_departure.py´ is the oly script with a practical application
+You can run all the scripts for themselves, but ´display_next_departure.py´ is the only script with a practical application
 
 Running
 ```bash
